@@ -1,48 +1,48 @@
 {
     "html": {
-        "avatarOverlay": "Edit"
+        "avatarOverlay": "Modifier"
     },
     "js": {
         "login": {
             "error": {
-                "invalidValue": "* Invalid Value",
-                "requiredValue": "* Required",
+                "invalidValue": "* Valeurs incorrectes ",
+                "requiredValue": "* Requis",
                 "userMigrated": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "You've attempted to login with a migrated account. Try again using the account email as the username."
+                    "title": "Erreur durant la connexion:<br>Identifiants Invalides",
+                    "desc": "Vous avez tenté de vous connectez avec un compte migré . Veuillez vous connecter avec l'adresse Mail de votre compte Mojang"
                 },
                 "invalidCredentials": {
-                    "title": "Error During Login:<br>Invalid Credentials",
-                    "desc": "The email or password you've entered is incorrect. Please try again."
+                    "title": "Erreur durant la connexion:<br>Identifiants Invalides",
+                    "desc": "L'adresse Mail ou le mot de passe sont invalides . Merci de vérifier ."
                 },
                 "rateLimit": {
-                    "title": "Error During Login:<br>Too Many Attempts",
-                    "desc": "There have been too many login attempts with this account recently. Please try again later."
+                    "title": "Erreur durant la connexion:<br>Délai expiré",
+                    "desc": "Trop de tentatives de connexions . Le délai à expirer . Veuillez réessayer plus tard ."
                 },
                 "noInternet": {
-                    "title": "Error During Login:<br>No Internet Connection",
-                    "desc": "You must be connected to the internet in order to login. Please connect and try again."
+                    "title": "Erreur durant la connexion:<br>Pas de Connexion à Internet",
+                    "desc": "Vous devez être connecté à Internet ! Réessayer ensuite."
                 },
                 "authDown": {
-                    "title": "Error During Login:<br>Authentication Server Offline",
-                    "desc": "Mojang's authentication server is currently offline or unreachable. Please wait a bit and try again. You can check the status of the server on <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
+                    "title": "Erreur durant la connexion:<br>Serveurs d'authentification Hors-ligne",
+                    "desc": "Les serveurs d'authentification Mojan sont offline ou injoignables. Attendez un peu et réessayer. Vous pouvez vérifier le statut des serveurs ici : <a href=\"https://help.mojang.com/\">Mojang's help portal</a>."
                 },
                 "notPaid": {
-                    "title": "Error During Login:<br>Game Not Purchased",
-                    "desc": "The account you are trying to login with has not purchased a copy of Minecraft.<br>You may purchase a copy on <a href=\"https://minecraft.net/\">Minecraft.net</a>"
+                    "title": "Erreur durant la connexion:<br>Jeu non possédé",
+                    "desc": "Le compte auquel vous essayez de vous connecter ne possède pas Minecraft.<br>Vous pouvez acheter le heu sur : <a href=\"https://minecraft.net/\">Minecraft.net</a>"
                 },
                 "unknown": {
-                    "title": "Error During Login:<br>Unknown Error"
+                    "title": "Erreur durant la connexion:<br>Unknown Error"
                 }
             },
-            "login": "LOGIN",
-            "loggingIn": "LOGGING IN",
-            "success": "SUCCESS",
-            "tryAgain": "Try Again"
+            "login": "Connexion",
+            "loggingIn": "Connexion en cours",
+            "success": "Connecté",
+            "tryAgain": "Réessayez"
         },
         "landing": {
             "launch": {
-                "pleaseWait": "Please wait.."
+                "pleaseWait": "Patientez ..."
             }
         }
     }
