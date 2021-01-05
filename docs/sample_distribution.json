@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
+        "smallImageText": "Ascension d'Arda",
         "smallImageKey": "seal-circle"
     },
     "java": {
@@ -11,13 +11,13 @@
     "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "id": "Ascension d'Arda",
+            "name": "Ascendion d'Arda",
+            "description": "Serveur principal LOTR francophone .",
+            "icon": "LoadingSeal",
             "version": "3.9.4",
-            "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "address": "91.121.65.169:25567",
+            "minecraftVersion": "1.7.10",
             "discord": {
                 "shortId": "Production",
                 "largeImageText": "WesterosCraft Production Server",
